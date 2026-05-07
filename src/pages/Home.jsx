@@ -7,7 +7,7 @@ import Partnership from "../components/Partnership";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import WhatsAppButton from "../components/WhatsAppButton";
-
+//hello
 const Home = () => {
   return (
     <div className="bg-[#0f0f0f] overflow-hidden">
